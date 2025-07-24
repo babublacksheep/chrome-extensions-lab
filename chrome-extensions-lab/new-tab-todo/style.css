@@ -48,7 +48,7 @@ li {
   border-bottom: 1px solid #eee;
 }
 
-li.done {
+li.done span {
   text-decoration: line-through;
   color: gray;
 }
