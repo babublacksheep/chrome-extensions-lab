@@ -1,3 +1,8 @@
+// script.js
+// Author: Sharath Babu
+// Purpose: Core logic for Chrome new tab to-do list
+// License: MIT License
+
 document.addEventListener('DOMContentLoaded', () => {
   const addBtn = document.getElementById('add-task-btn');
   const newTaskInput = document.getElementById('new-task');
